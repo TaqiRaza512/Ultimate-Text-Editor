@@ -1,0 +1,8 @@
+7
+Hi this is my second document.
+In this document i want to discuss 
+about the advantages and disadvantages of
+programming in C languages.
+
+We should behave in a well manners because a man is 
+known by the company he keeps.
